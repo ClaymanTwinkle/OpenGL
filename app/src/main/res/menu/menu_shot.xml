@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/normal"
+          android:title="素颜"/>
+    <item android:id="@+id/add_triangle"
+          android:title="三角形"/>
+    <item android:id="@+id/add_water_mark"
+          android:title="图片水印"/>
+    <item android:id="@+id/add_font_mark"
+          android:title="文字水印"/>
+</menu>
